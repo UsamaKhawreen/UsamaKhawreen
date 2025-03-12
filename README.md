@@ -3,10 +3,10 @@
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. 
 
 ## 🚀 About Me
-- 🔭 I’m currently **Data Science** student **Hyperiondev**  
+- 🔭 I’m currently **Data Science** student at **Hyperiondev**  
 
 ## 🛠️ Tech Stack
-- 💻 Languages: =`Python`, `C++` 
+- 💻 Languages: `Python`, `C++` 
 - 🛠️ Tools: `Git`, `VS Code`, `Jupyter`,
 
 ## 🔗 Connect with Me
