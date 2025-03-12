@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Usama Arabzai  
 
 Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. 
 
