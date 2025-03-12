@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]  
 
-<!--
-**UsamaKhawreen/UsamaKhawreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about coding, open-source projects, and continuous learning. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently **Data Science** student **Hyperiondev**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- 💻 Languages: =`Python`, `C++` 
+- 🛠️ Tools: `Git`, `VS Code`, `Jupyter`,
+
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/usama-khawreen-41099a227/)
+
+Thanks for visiting my profile! 🚀
