@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding, open-source projects,
 
 ## 🛠️ Tech Stack
 - 💻 Languages: `Python`, `C++` 
-- 🛠️ Tools: `Git`, `VS Code`, `Jupyter`,
+- 🛠️ Tools: `Git`, `GitHub`, `Jupyter` `Notebook`, `Visual` `Studio`, `Code`, `VirtualBox` and more…
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/usama-khawreen-41099a227/)
